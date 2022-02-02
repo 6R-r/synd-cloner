@@ -1,16 +1,16 @@
-mytitle = "syndrome"
+mytitle = "synd cloner"
 from os import system
 system("title "+mytitle)
 import psutil
 from pypresence import Presence
 import time
 import sys
-client_id = '524962971932295179'
+client_id = 'account id'
 import discord
 import asyncio
 import colorama
 from colorama import Fore, init, Style
-import platformsidem serverclone import Clone
+import serverside import stuff
 
 syndrome = discord.Client()
 os = platform.system()
@@ -49,12 +49,12 @@ async def on_ready():
     print("cloning the server...")
     guild_from = client.get_guild(int(input_guild_id))
     guild_to = client.get_guild(int(output_guild_id))
-    await Clone.guild_edit(guild_to, guild_from)
-    await Clone.roles_delete(guild_to)
-    await Clone.channels_delete(guild_to)
-    await Clone.roles_create(guild_to, guild_from)
-    await Clone.categories_create(guild_to, guild_from)
-    await Clone.channels_create(guild_to, guild_from)
+    await stuff.guild_edit(guild_to, guild_from)
+    await stuff.roles_delete(guild_to)
+    await stuff.channels_delete(guild_to)
+    await stuff.roles_create(guild_to, guild_from)
+    await stuff.categories_create(guild_to, guild_from)
+    await stuff.channels_create(guild_to, guild_from)
     print(f"""{Fore.GREEN}
 
 
@@ -64,7 +64,7 @@ async def on_ready():
                                              █    █     █       █    █         █        █      
                                             ▀▄▄▄▄▀  ▄▀▀▀▀▀▄   ▄▀▄▄▄▄▀      ▄▀▀▀▀▀▄   ▄▀       
                                             █     ▐  █       █ █     ▐      █       █ █         
-                                            ▐        ▐       ▐ ▐            ▐       ▐ ▐ syndrome  
+                                            ▐        ▐       ▐ ▐            ▐       ▐ ▐  
 
     {Style.RESET_ALL}""")
     await asyncio.sleep(5)
