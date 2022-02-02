@@ -3,7 +3,7 @@
 **synd cloner**
 ___
 
-⭐️ the repo for more. If you get any problem, open a issue.
+*⭐️ the repo for more. If you get any problem, open a issue.*
 ___
 
 **How to make it work?**
