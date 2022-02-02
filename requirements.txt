@@ -1,0 +1,4 @@
+psutil==5.8.0
+pypresence==4.2.1
+discord==1.7.3
+colorama==0.4.4
