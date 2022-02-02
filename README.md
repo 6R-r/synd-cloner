@@ -13,6 +13,7 @@ ___
 **How to make it work?**
 
 `pip install -r requirements.txt`
+
 `python syndcloner.py`
 ___
 **__Features__**
