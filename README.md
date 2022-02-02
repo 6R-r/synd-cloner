@@ -1,5 +1,8 @@
 <div align="center">
 
+**SYND CLONER**
+___
+
 ```diff
 + Clone Channels
 + Channel Permissions
