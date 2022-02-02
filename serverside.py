@@ -187,7 +187,7 @@ class Clone:
                 await guild_to.create_custom_emoji(
                     name=emoji.name,
                     image=emoji_image)
-                print_add(f"created emoji {emoji.name}")
+                print_add(f"created emoji: {emoji.name}")
             except discord.Forbidden:
                 print_error(f"error while creating emoji {emoji.name} ")
             except discord.HTTPException:
