@@ -34,8 +34,8 @@ print(f"""{Fore.RED}
 token = input(f'token:\n ')
 guild_s = input('guild id you want to copy:\n ')
 guild = input('guild id where you want to copy:\n ')
-input_guild_id = guild_s  # <-- input guild id
-output_guild_id = guild  # <-- output guild id
+input_guild_id = guild_s  # <- input guild id
+output_guild_id = guild  # <- output guild id
 token = token  # <-- your account token
 
 
