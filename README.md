@@ -1,6 +1,6 @@
 <div align="center">
 
-**synd cloner**
+**synd cloner (open src server discord cloner)**
 ___
 
 *⭐️ the repo for more. If you get any problem, open a issue.*
