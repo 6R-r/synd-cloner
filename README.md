@@ -29,8 +29,8 @@ ___
 ```
 
 ```diff
-Contact me at:
-Discord: syndrome#0001 / alex moon#0810
-Via GitHub on Issues
-Email: -
+- Contact me at:
+- Discord: syndrome#0001 / alex moon#0810
+- Via GitHub on Issues
+- Email: -
 ```
