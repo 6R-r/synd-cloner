@@ -36,7 +36,7 @@ guild_s = input('guild id you want to copy:\n ')
 guild = input('guild id where you want to copy:\n ')
 input_guild_id = guild_s  # <-- input guild id
 output_guild_id = guild  # <-- output guild id
-token = token  # <-- your Account token
+token = token  # <-- your account token
 
 
 print("  ")
@@ -46,7 +46,7 @@ print("  ")
 async def on_ready():
     extrem_map = {}
     print(f"logged in as: {client.user}")
-    print("cloning...")
+    print("cloning the server...")
     guild_from = client.get_guild(int(input_guild_id))
     guild_to = client.get_guild(int(output_guild_id))
     await Clone.guild_edit(guild_to, guild_from)
