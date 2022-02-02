@@ -14,7 +14,7 @@ ___
 
 `pip install -r requirements.txt`
 
-`python syndcloner.py`
+`python syndclone.py`
 ___
 **__Features__**
 
@@ -27,3 +27,8 @@ ___
 + Server Emojis
 + Server Settings 
 ```
+
+`Contact me at:`
+`Discord: syndrome#0001 / alex moon#0810`
+`Via GitHub on Issues`
+`Email: 
