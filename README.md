@@ -1,18 +1,18 @@
 <div align="center">
 
-**SYND CLONER**
+**synd cloner**
 ___
 
 ⭐️ the repo for more. If you get any problem, open a issue.
 ___
 
-**How to make it work**
+**How to make it work?**
 
 `pip install -r requirements.txt`
 `python syndcloner.py`
 ___
 ```diff
-__Features__
+**Features**
 
 + Clone Channels
 + Channel Permissions
