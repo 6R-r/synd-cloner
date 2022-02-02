@@ -11,9 +11,9 @@ ___
 `pip install -r requirements.txt`
 `python syndcloner.py`
 ___
-```diff
-**Features**
+**__Features__**
 
+```diff
 + Clone Channels
 + Channel Permissions
 + Server Roles
