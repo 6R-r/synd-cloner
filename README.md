@@ -28,10 +28,9 @@ ___
 + Server Settings 
 ```
 
-`Contact me at:`
-
-`Discord: syndrome#0001 / alex moon#0810`
-
-`Via GitHub on Issues`
-
-`Email: -`
+```diff
+Contact me at:
+Discord: syndrome#0001 / alex moon#0810
+Via GitHub on Issues
+Email: -
+```
